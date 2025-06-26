@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "dbo",
+    "name": "MyStringType",
+    "type": "Type"
+  },
+  {
+    "schema": "dbo",
+    "name": "PostalCode",
+    "type": "Type"
+  }
+]

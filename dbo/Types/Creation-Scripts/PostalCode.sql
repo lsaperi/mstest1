@@ -1,0 +1,1 @@
+CREATE TYPE [dbo].[PostalCode] FROM [varchar](10) NOT NULL

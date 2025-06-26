@@ -1,0 +1,1 @@
+CREATE TYPE [dbo].[MyStringType] FROM [nvarchar](50) NULL

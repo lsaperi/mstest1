@@ -1,0 +1,1 @@
+CREATE TYPE [custom].[TextType] FROM [nvarchar](100) NULL

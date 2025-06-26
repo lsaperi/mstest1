@@ -1,0 +1,1 @@
+CREATE TYPE [custom].[StateCode] FROM [char](2) NOT NULL

@@ -1,0 +1,17 @@
+[
+  {
+    "schema": "",
+    "name": "custom",
+    "type": "Schema"
+  },
+  {
+    "schema": "custom",
+    "name": "StateCode",
+    "type": "Type"
+  },
+  {
+    "schema": "custom",
+    "name": "TextType",
+    "type": "Type"
+  }
+]
