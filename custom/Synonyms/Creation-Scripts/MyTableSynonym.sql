@@ -1,0 +1,1 @@
+CREATE SYNONYM [custom].[MyTableSynonym] FOR [custom].[MyTable]

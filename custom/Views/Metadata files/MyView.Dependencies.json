@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "custom",
+    "type": "Schema"
+  },
+  {
+    "schema": "custom",
+    "name": "MyTable",
+    "type": "Table"
+  }
+]

@@ -1,0 +1,1 @@
+CREATE SYNONYM [mstest2_dev].[MyTableSynonym] FOR [mstest2_dev].[MyTable]

@@ -1,0 +1,12 @@
+[
+  {
+    "schema": "",
+    "name": "mstest2_dev",
+    "type": "Schema"
+  },
+  {
+    "schema": "mstest2_dev",
+    "name": "MyView",
+    "type": "View"
+  }
+]
