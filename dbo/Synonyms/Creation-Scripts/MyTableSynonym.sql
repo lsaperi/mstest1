@@ -1,0 +1,1 @@
+CREATE SYNONYM [dbo].[MyTableSynonym] FOR [dbo].[MyTable]
