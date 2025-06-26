@@ -1,1 +1,1 @@
-CREATE TYPE [dbo].[MyStringType] FROM [nvarchar](50) NULL
+CREATE TYPE [dbo].[MyStringType] FROM [nvarchar](200) NULL
