@@ -1,0 +1,7 @@
+[
+  {
+    "schema": "dbo",
+    "name": "MyView",
+    "type": "View"
+  }
+]
