@@ -3,7 +3,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
--- 6. Create a function that retrieves from the view
+-- 6. Change a function that retrieves from the view
 CREATE FUNCTION dbo.GetNameByID (@id INT)
 RETURNS NVARCHAR(100)
 AS

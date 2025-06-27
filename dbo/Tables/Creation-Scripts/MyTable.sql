@@ -5,6 +5,7 @@ GO
 CREATE TABLE [dbo].[MyTable](
 	[ID] [int] NOT NULL,
 	[Name] [nvarchar](100) COLLATE Modern_Spanish_CI_AS NULL,
+	[CreatedAt] [datetime] NULL,
 PRIMARY KEY CLUSTERED 
 (
 	[ID] ASC
@@ -12,4 +13,6 @@ PRIMARY KEY CLUSTERED
 )
 GO
 ALTER TABLE [dbo].[MyTable] ADD  DEFAULT (NEXT VALUE FOR [dbo].[MySequence]) FOR [ID]
+GO
+ALTER TABLE [dbo].[MyTable] ADD  DEFAULT (getdate()) FOR [CreatedAt]
 GO

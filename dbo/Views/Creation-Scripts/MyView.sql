@@ -1,3 +1,3 @@
--- 3. Create a view on that table
+-- 3. Change a view on that table (add column CreatedAt)
 CREATE VIEW dbo.MyView AS
-SELECT ID, Name FROM dbo.MyTable;
+SELECT ID, Name, CreatedAt FROM dbo.MyTable;
